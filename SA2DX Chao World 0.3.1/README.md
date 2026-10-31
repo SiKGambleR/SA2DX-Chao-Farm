@@ -21,9 +21,3 @@ metal = Egg Carrier). Walk into a gate to enter that garden, and use the door in
 - The two `Enable*.flag` files in the mod folder switch the gardens on. Do not delete them, or only the Neutral garden loads. 
 - The lobby corridor was recreated by observation of the "Extra Chao Garden" mod, with no code
   or geometry copied. Credit to: [Megalslip](https://gamebanana.com/members/5990267)
-
-## Build
-
-`powershell -ExecutionPolicy Bypass -File .\build-mod.ps1` builds the plugin into
-`build\SA2SixGardenExpansion`. `tools\` holds the garden and lobby generators.
-See `DEVELOPMENT_NOTES.md` and `MODLOG.md` for the development history.
