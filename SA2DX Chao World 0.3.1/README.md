@@ -9,7 +9,7 @@ metal = Egg Carrier). Walk into a gate to enter that garden, and use the door in
 
 ## Install
 
-1. Install [SA Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) and the SA2 Mod Loader.
+1. Install [SA Mod Manager](https://github.com/X-Hax/SA-Mod-Manager).
 2. Copy the `SA2DX Chao World` folder into the game's `mods` folder.
 3. Enable **SA2DX Chao World** in the mod manager and start the game.
 
