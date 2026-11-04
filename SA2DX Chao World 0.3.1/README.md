@@ -19,5 +19,3 @@ metal = Egg Carrier). Walk into a gate to enter that garden, and use the door in
 - Garden geometry and textures are converted from SADX data at build time and shipped as
   generated assets; this repository does not include game files.
 - The two `Enable*.flag` files in the mod folder switch the gardens on. Do not delete them, or only the Neutral garden loads. 
-- The lobby corridor was recreated by observation of the "Extra Chao Garden" mod, with no code
-  or geometry copied. Credit to: [Megalslip](https://gamebanana.com/members/5990267)
