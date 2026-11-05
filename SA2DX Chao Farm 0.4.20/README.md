@@ -44,6 +44,7 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 
 ## Compatibility notes
 
+- Haven't tested with many other mods yet.
 - Built and tested against the Steam 2012 PC port with SA Mod Manager
 - Mods that heavily modify the main menu, stage select screen, or the
   Chao World lobby may conflict.
