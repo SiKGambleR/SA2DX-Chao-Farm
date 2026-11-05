@@ -1,6 +1,6 @@
 # SA2DX Chao Farm
 
-Version 0.4.20 - for Sonic Adventure 2 (2012 PC port) with the SA Mod Manager.
+Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 
 ## What This Mod Adds:
 
