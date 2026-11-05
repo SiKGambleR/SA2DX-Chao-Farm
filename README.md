@@ -59,7 +59,7 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 - Built with AI assistance (GitHub Copilot) for code, reverse engineering
   and asset tooling
 - SA Mod Manager & SA Tools 
-  (https://gamebanana.com/tools/15436 https://github.com/X-Hax/sa_tools)
+  (https://github.com/X-Hax/SA-Mod-Manager & https://github.com/X-Hax/sa_tools)
 - Sonic Adventure 2, Sonic Adventure DX and all related assets are the
   property of SEGA. The texture archives in this mod are modified copies
   of the game's own files and require a legally owned copy of both games.
