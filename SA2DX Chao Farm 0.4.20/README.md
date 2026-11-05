@@ -2,7 +2,7 @@
 
 Version 0.4.20 - for Sonic Adventure 2 (2012 PC port) with the SA Mod Manager.
 
-## What this mod adds:
+## What This Mod Adds:
 
 ### SADX Chao Gardens:
 Station Square, Mystic Ruins and Egg Carrier Chao Gardens from Sonic
