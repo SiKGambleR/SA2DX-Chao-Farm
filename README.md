@@ -12,7 +12,7 @@ Adventure DX - rebuilt for SA2. Each garden is reached through its own gate
 in a new area in the Chao Lobby, and keep each's own independent
 Chao Population and Item Pool. 
 
--Known issue: Water on Egg Carrier doesn't work.
+-Known Issue: Water on Egg Carrier doesn't work.
 
 ### The Chao Farm:
 Ever wanted to be able to play the Chao World as its own game?  The Chao Farm 
@@ -33,6 +33,9 @@ Inside the Chao Farm every character gets:
 Each character plays the Chao Farm with a song from one of their own missions,
 and the Chao Farm has its own loading screen & stage-select node (the Chao Key
 Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
+
+-Known Issue: Some stutter when in the farm with Tails & Eggman.
+
 ## Installation
 
 1. Install the SA Mod Manager if you have not already:
