@@ -9,7 +9,7 @@ Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 
 ### SADX Chao Gardens:
 Station Square, Mystic Ruins and Egg Carrier Chao Gardens from Sonic
-Adventure DX, rebuilt for SA2. Each garden is reached through its own gate
+Adventure DX - rebuilt for SA2. Each garden is reached through its own gate
 in a new area in the Chao Lobby, and keeps its own independent
 Chao population and item pool. 
 
