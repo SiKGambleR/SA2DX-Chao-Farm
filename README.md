@@ -60,6 +60,7 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
   and asset tooling
 - SA Mod Manager & SA Tools 
   (https://github.com/X-Hax/SA-Mod-Manager & https://github.com/X-Hax/sa_tools)
+- Font used on loading screen: https://www.dafont.com/chaolphabet.font
 - Sonic Adventure 2, Sonic Adventure DX and all related assets are the
   property of SEGA. The texture archives in this mod are modified copies
   of the game's original files and require a legally owned copy of both games.
