@@ -60,8 +60,8 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 - SiK GambleR - design, direction, testing, graphical assets
 - Built with AI assistance (GitHub Copilot) for code, reverse engineering
   and asset tooling
-- SA Mod Manager & SA Tools 
-  (https://github.com/X-Hax/SA-Mod-Manager & https://github.com/X-Hax/sa_tools)
+- SA Mod Manager & SA Tools:
+  https://github.com/X-Hax/SA-Mod-Manager & https://github.com/X-Hax/sa_tools
 - Font used on loading screen: https://www.dafont.com/chaolphabet.font
 - Sonic Adventure 2, Sonic Adventure DX and all related assets are the
   property of SEGA. The texture archives in this mod are modified copies
