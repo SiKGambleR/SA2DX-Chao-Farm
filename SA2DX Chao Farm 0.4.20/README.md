@@ -49,7 +49,7 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 
 ## Credits
 
-- SiK GambleR - design, direction, testing, graphical assets, testing
+- SiK GambleR - design, direction, testing, graphical assets
 - Built with AI assistance (GitHub Copilot) for code, reverse engineering
   and asset tooling
 - SA Mod Manager & SA Tools 
