@@ -1,5 +1,6 @@
 ## SA2DX-Chao-Farm
 -Adds in the 3 DX chao gardens as 4th, 5th, and 6th gardens with their own populations & item pools.
+
 -Adds the Chao Farm - A way to play SA2 as a Chao Only Experience
 
 There has been minimal testing done and I am looking for people to test any and all scenarios possible. 
