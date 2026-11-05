@@ -1,9 +1,7 @@
-# SA2DX-Chao-Farm
+# SA2DX Chao Farm v0.4.20
 -Adds in the 3 DX Chao Gardens & the Chao Farm - A way to play SA2 as a Chao Only Experience-
 
 There has been minimal testing done and I am looking for people to test any and all scenarios possible. 
-
-Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 
 ## What This Mod Adds:
 
@@ -13,7 +11,7 @@ Adventure DX - rebuilt for SA2. Each garden is reached through its own gate
 in a new area in the Chao Lobby, and keep each's own independent
 Chao Population and Item Pool. 
 
--Known issue: Water on Egg Carrier doesn't work.
+-Known Issue: Water on Egg Carrier doesn't work.
 
 ### The Chao Farm:
 Ever wanted to be able to play the Chao World as its own game?  The Chao Farm 
@@ -34,6 +32,9 @@ Inside the Chao Farm every character gets:
 Each character plays the Chao Farm with a song from one of their own missions,
 and the Chao Farm has its own loading screen & stage-select node (the Chao Key
 Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
+
+-Known Issue: Some stutter when in the farm with Tails & Eggman.
+
 ## Installation
 
 1. Install the SA Mod Manager if you have not already:
