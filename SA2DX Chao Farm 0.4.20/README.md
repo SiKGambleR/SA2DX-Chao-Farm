@@ -1,4 +1,7 @@
-# SA2DX Chao Farm
+# SA2DX-Chao-Farm
+-Adds in the 3 DX Chao Gardens & the Chao Farm - A way to play SA2 as a Chao Only Experience-
+
+There has been minimal testing done and I am looking for people to test any and all scenarios possible. 
 
 Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 
@@ -6,9 +9,9 @@ Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 
 ### SADX Chao Gardens:
 Station Square, Mystic Ruins and Egg Carrier Chao Gardens from Sonic
-Adventure DX, rebuilt for SA2. Each garden is reached through its own gate
-in a new area in the Chao Lobby, and keeps its own independent
-Chao population and item pool. 
+Adventure DX - rebuilt for SA2. Each garden is reached through its own gate
+in a new area in the Chao Lobby, and keep each's own independent
+Chao Population and Item Pool. 
 
 -Known issue: Water on Egg Carrier doesn't work.
 
@@ -56,10 +59,11 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 - Built with AI assistance (GitHub Copilot) for code, reverse engineering
   and asset tooling
 - SA Mod Manager & SA Tools 
-  (https://gamebanana.com/tools/15436 https://github.com/X-Hax/sa_tools)
+  (https://github.com/X-Hax/SA-Mod-Manager & https://github.com/X-Hax/sa_tools)
+- Font used on loading screen: https://www.dafont.com/chaolphabet.font
 - Sonic Adventure 2, Sonic Adventure DX and all related assets are the
   property of SEGA. The texture archives in this mod are modified copies
-  of the game's own files and require a legally owned copy of both games.
+  of the game's original files and require a legally owned copy of both games.
 
 ## Version history
 
