@@ -11,7 +11,7 @@ Version 0.4.20 - for Sonic Adventure 2 with the SA Mod Manager.
 Station Square, Mystic Ruins and Egg Carrier Chao Gardens from Sonic
 Adventure DX - rebuilt for SA2. Each garden is reached through its own gate
 in a new area in the Chao Lobby, and keep each's own independent
-Chao population and Item Pool. 
+Chao Population and Item Pool. 
 
 -Known issue: Water on Egg Carrier doesn't work.
 
