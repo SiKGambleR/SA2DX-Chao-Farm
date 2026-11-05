@@ -75,11 +75,11 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
   duplication, stability tweaks; public release.
 - 0.4.0 - First Chao Farm release: new stage, main-menu button with direct
   warp, fresh-save support, custom loading screen, stage-select art,
-  per-character music, small tweaks; not released to public.
+  per-character music, small tweaks; never released to public.
 - 0.3.1 - First stable release shown to the public but removed due to 
-  issues with, ironically, stability
+  issues with, ironically, stability.
 - 0.2.5 - First thought stable build: the three SADX gardens with textures
-  and lobby corridor entrances, never released to public.
+  and lobby corridor entrances; never released to public.
 - 0.1.0 - A Mess.
 
 
