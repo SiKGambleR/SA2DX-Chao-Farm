@@ -26,7 +26,7 @@ no story progress needed, it works on a fresh save, and every character is unloc
 Inside the Chao Farm every character gets:
 - 24 respawning rings
 - All 21 animals that respawn
-- 4 Chaos Drives (!x each color, respawning)
+- 4 Chaos Drives (1x each color, respawning)
 - A Chao Key Crate
 - A Goal Ring for Sonic/Shadow/Tails/Eggman & 3 Master Emeralds for Knuckles/Rouge
 
@@ -41,7 +41,7 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 1. Install the SA Mod Manager if you have not already:
    https://github.com/X-Hax/SA-Mod-Manager
 2. Copy the folder "SA2DX Chao Farm 0.4.20" into your game's "mods" folder
-   or use the "+ Add Mod" button in SA Mod Manager.
+   or use the "+ Add Mod" button in SA Mod Manager. (SA2DX-CF SOURCE is not required)
 3. Enable "SA2DX Chao Farm" in SA Mod Manager then "Save and Play".
 
 ## Compatibility notes
