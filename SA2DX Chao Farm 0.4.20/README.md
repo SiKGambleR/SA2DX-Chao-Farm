@@ -10,6 +10,8 @@ Adventure DX, rebuilt for SA2. Each garden is reached through its own gate
 in a new area in the Chao Lobby, and keeps its own independent
 Chao population and item pool. 
 
+-Known issue: Water on Egg Carrier doesn't work.
+
 ### The Chao Farm:
 Ever wanted to be able to play the Chao World as its own game?  The Chao Farm 
 was born from this thought.  A brand-new stage that is accessible from the main
