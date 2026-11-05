@@ -36,7 +36,8 @@ Icon, Image Credit: https://sonic.fandom.com/wiki/Chao_Key).
 1. Install the SA Mod Manager if you have not already:
    https://github.com/X-Hax/SA-Mod-Manager
 2. Copy the folder "SA2DX Chao Farm 0.4.20" into your game's "mods" folder
-3. Enable "SA2DX Chao Farm" in the mod manager and save.
+   or use the "+ Add Mod" button in SA Mod Manager.
+3. Enable "SA2DX Chao Farm" in SA Mod Manager then "Save and Play".
 
 ## Compatibility notes
 
